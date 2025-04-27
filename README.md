@@ -1,5 +1,3 @@
-![WOPB Screenshot](img.jpg)
-
 # WOPB PRO - WordPress Bruteforce Tool
 
 **WOPB PRO** (WordPress Online Password Bruteforcer) adalah tool bruteforce WordPress berbasis Python dengan fitur lengkap:
@@ -83,8 +81,11 @@
 ## Example Output
 
 [*] Starting single target brute...
+
 Bruteforcing: 100%|████████████████████| 50000/50000 [01:23<00:00, 601/s]
+
 [SUCCESS] https://target.com/wp-login.php => admin:password123
+
 Saved to vuln/vuln.txt
 
 
@@ -97,3 +98,5 @@ by @karranwang
 
 This tool is for educational and authorized testing purposes only.
 Using it against targets without permission is illegal!
+
+![WOPB Screenshot](img.jpg)
