@@ -32,7 +32,7 @@
 1. Clone Repository:
 
    ```bash
-   git clone https://github.com/karranwang/wopb-pro
+   git clone https://github.com/karranwang/wopb
    ```
    
    ```bash
