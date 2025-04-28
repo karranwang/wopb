@@ -48,7 +48,7 @@
 - [X] Single Target
 
    ```bash
-   python wopb.py -u https://target.com/wp-login.php -U wordlists/userlist.txt -p wordlists/passlist.txt --proxy proxy.txt
+   python wopb.py -u https://target.com/wp-login.php -U wordlists/userlist.txt -p wordlists/passlist.txt --proxy proxy/proxy.txt
    ```
 - [X] Mass Target
 
