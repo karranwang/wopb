@@ -86,7 +86,7 @@ Bruteforcing: 100%|████████████████████|
 
 [SUCCESS] https://target.com/wp-login.php => admin:password123
 
-Saved to vuln/vuln.txt
+Saved to result/vuln.txt
 
 
 ## Author
