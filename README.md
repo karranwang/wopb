@@ -1,4 +1,4 @@
-# WOPB PRO - WordPress Bruteforce Tool
+# WOPB - WordPress Bruteforce Tool
 
 **WOPB PRO** (WordPress Online Password Bruteforcer) adalah tool bruteforce WordPress berbasis Python dengan fitur lengkap:
 - Single target & mass target support
